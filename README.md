@@ -82,7 +82,7 @@
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(46).pdf" style="text-decoration:none;">Is object localization for free? – Weakly-supervised learning with convolutional neural networks</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(47).pdf" style="text-decoration:none;">Is object localization for free? – Weakly-supervised learning with convolutional neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(47).pdf" style="text-decoration:none;">A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(48).pdf" style="text-decoration:none;">Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(49).pdf" style="text-decoration:none;">Simple Does It: Weakly Supervised Instance and Semantic Segmentation</a></li>
@@ -94,5 +94,6 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(53).pdf" style="text-decoration:none;">Min-Entropy Latent Model for Weakly Supervised Object Detection</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(54).pdf" style="text-decoration:none;">Learning to Segment Under Various Forms of Weak Supervision </a></li>
-
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Weakly-Supervised-Semantic-Segmentation-Papers/blob/master/ws(55).pdf" style="text-decoration:none;">PCAMs: Weakly Supervised Semantic Segmentation Using Point Supervision</a></li>
 </ul>
